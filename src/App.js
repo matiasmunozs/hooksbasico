@@ -1,5 +1,5 @@
 import Contador from "./components/Contador";
-
+import Lista from "./components/Lista";
 
 
 function App() {
@@ -9,6 +9,8 @@ function App() {
     <div className="App">
       <h1>hola mundo</h1>
       <Contador/>
+      <Lista/>
+
     </div>
 
 
